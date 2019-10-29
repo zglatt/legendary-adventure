@@ -1,0 +1,12 @@
+c:\users\zachary\documents\visual studio 2015\Projects\BlackJack_4_a\BlackJack_4_a\bin\Debug\BlackJack_4_a.exe.config
+c:\users\zachary\documents\visual studio 2015\Projects\BlackJack_4_a\BlackJack_4_a\bin\Debug\BlackJack_4_a.exe
+c:\users\zachary\documents\visual studio 2015\Projects\BlackJack_4_a\BlackJack_4_a\bin\Debug\BlackJack_4_a.pdb
+c:\users\zachary\documents\visual studio 2015\Projects\BlackJack_4_a\BlackJack_4_a\obj\Debug\BlackJack_4_a.csprojResolveAssemblyReference.cache
+c:\users\zachary\documents\visual studio 2015\Projects\BlackJack_4_a\BlackJack_4_a\obj\Debug\BlackJack_4_a.exe
+c:\users\zachary\documents\visual studio 2015\Projects\BlackJack_4_a\BlackJack_4_a\obj\Debug\BlackJack_4_a.pdb
+C:\Users\Zachary\Documents\Visual Studio 2015\Projects\BlackjackReleased\BlackJack_4_a\bin\Debug\BlackJack_4_a.exe.config
+C:\Users\Zachary\Documents\Visual Studio 2015\Projects\BlackjackReleased\BlackJack_4_a\obj\Debug\BlackJack_4_a.exe
+C:\Users\Zachary\Documents\Visual Studio 2015\Projects\BlackjackReleased\BlackJack_4_a\obj\Debug\BlackJack_4_a.pdb
+C:\Users\Zachary\Documents\Visual Studio 2015\Projects\BlackjackReleased\BlackJack_4_a\bin\Debug\BlackJack_4_a.exe
+C:\Users\Zachary\Documents\Visual Studio 2015\Projects\BlackjackReleased\BlackJack_4_a\bin\Debug\BlackJack_4_a.pdb
+C:\Users\Zachary\Documents\Visual Studio 2015\Projects\BlackjackReleased\BlackJack_4_a\obj\Debug\BlackJack_4_a.csprojResolveAssemblyReference.cache
