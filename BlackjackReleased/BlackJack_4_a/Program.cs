@@ -650,7 +650,7 @@ namespace BlackJackFirst
                                                 playerUnconvertedAces++;
                                             }
                                             appearingCard.inDrawDeck = false;
-                                            playerHand += appearingCard.rank;
+                                            playerHand += appearingCard.rank;  // ISSUE TO FIX: If starting with an Ace, this can give a false bust
                                             Console.WriteLine("Your hand total is:  " + playerHand + "\n");
                                             Console.ReadKey();
                                             x++;  // loop only terminates
